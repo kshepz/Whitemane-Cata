@@ -1,0 +1,67 @@
+
+DiminishingReturnsDB = {
+	["namespaces"] = {
+		["Blizzard_ArenaUI"] = {
+			["profiles"] = {
+				["Gsee - Maelstrom"] = {
+					["enabled"] = false,
+				},
+			},
+		},
+		["LibDualSpec-1.0"] = {
+		},
+		["Nameplates"] = {
+			["profiles"] = {
+				["Gsee - Maelstrom"] = {
+					["enabled"] = false,
+				},
+			},
+		},
+		["Blizzard"] = {
+			["profiles"] = {
+				["Gsee - Maelstrom"] = {
+					["target"] = {
+						["iconSize"] = 30,
+					},
+					["party"] = {
+						["enabled"] = false,
+					},
+					["player"] = {
+						["direction"] = "LEFT",
+						["xOffset"] = -310,
+						["yOffset"] = -110,
+						["anchorPoint"] = "LEFT",
+						["relPoint"] = "CENTER",
+						["iconSize"] = 40,
+						["screenAnchor"] = true,
+					},
+					["focus"] = {
+						["enabled"] = false,
+					},
+				},
+			},
+		},
+		["Gladius"] = {
+			["profiles"] = {
+				["Gsee - Maelstrom"] = {
+					["xOffset"] = -50,
+					["yOffset"] = -5,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Gsee - Maelstrom"] = "Gsee - Maelstrom",
+	},
+	["profiles"] = {
+		["Gsee - Maelstrom"] = {
+			["categories"] = {
+				["scatters"] = true,
+				["ctrlstun"] = true,
+				["disorient"] = true,
+				["fear"] = true,
+			},
+			["bigTimer"] = true,
+		},
+	},
+}

@@ -1,0 +1,10 @@
+
+MasqueDB = {
+	["profileKeys"] = {
+		["Gsee - Maelstrom"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

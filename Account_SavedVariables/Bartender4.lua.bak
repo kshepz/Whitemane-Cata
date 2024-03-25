@@ -1,0 +1,198 @@
+
+Bartender4DB = {
+	["namespaces"] = {
+		["ActionBars"] = {
+			["profiles"] = {
+				["Gsea - Maelstrom"] = {
+					["actionbars"] = {
+						{
+							["version"] = 3,
+							["padding"] = 4,
+							["position"] = {
+								["x"] = -380,
+								["point"] = "BOTTOM",
+								["scale"] = 1.100000023841858,
+								["y"] = 87.50000199909229,
+							},
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.4998348790105,
+								["point"] = "CENTER",
+								["y"] = -189.5000120019605,
+							},
+						}, -- [2]
+						{
+							["rows"] = 12,
+							["version"] = 3,
+							["fadeout"] = true,
+							["fadeoutalpha"] = 0,
+							["position"] = {
+								["x"] = -43.49976402983043,
+								["point"] = "RIGHT",
+								["y"] = 132.4889077607276,
+							},
+							["padding"] = 5,
+						}, -- [3]
+						{
+							["rows"] = 12,
+							["version"] = 3,
+							["fadeout"] = true,
+							["fadeoutalpha"] = 0,
+							["position"] = {
+								["x"] = -86.49966438962247,
+								["point"] = "RIGHT",
+								["y"] = 132.4889077607276,
+							},
+							["padding"] = 5,
+						}, -- [4]
+						{
+							["rows"] = 2,
+							["version"] = 3,
+							["position"] = {
+								["x"] = 155,
+								["point"] = "BOTTOM",
+								["scale"] = 1.07,
+								["y"] = 130,
+							},
+							["padding"] = 4,
+						}, -- [5]
+						{
+							["version"] = 3,
+							["position"] = {
+								["x"] = -380,
+								["point"] = "BOTTOM",
+								["scale"] = 1.100000023841858,
+								["y"] = 129,
+							},
+							["padding"] = 4,
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						[10] = {
+						},
+					},
+				},
+			},
+		},
+		["ExtraActionBar"] = {
+			["profiles"] = {
+				["Gsea - Maelstrom"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -31.4999546934539,
+						["point"] = "BOTTOM",
+						["y"] = 222.9999991109659,
+					},
+				},
+			},
+		},
+		["MicroMenu"] = {
+			["profiles"] = {
+				["Gsea - Maelstrom"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -306.4997636878941,
+						["point"] = "BOTTOMRIGHT",
+						["scale"] = 1,
+						["y"] = 40.50000427420247,
+					},
+					["fadeoutalpha"] = 0,
+					["fadeout"] = true,
+				},
+			},
+		},
+		["XPBar"] = {
+			["profiles"] = {
+				["Gsea - Maelstrom"] = {
+					["enabled"] = true,
+					["version"] = 3,
+					["position"] = {
+						["x"] = 337.3334669164078,
+						["point"] = "BOTTOMLEFT",
+						["y"] = 16.00001094195832,
+					},
+				},
+			},
+		},
+		["BlizzardArt"] = {
+			["profiles"] = {
+				["Gsea - Maelstrom"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -512,
+						["point"] = "BOTTOM",
+						["y"] = 47,
+					},
+				},
+			},
+		},
+		["BagBar"] = {
+			["profiles"] = {
+				["Gsea - Maelstrom"] = {
+					["enabled"] = false,
+					["onebag"] = true,
+					["version"] = 3,
+					["position"] = {
+						["x"] = 463.5,
+						["point"] = "BOTTOM",
+						["y"] = 41.75,
+					},
+				},
+			},
+		},
+		["Vehicle"] = {
+			["profiles"] = {
+				["Gsea - Maelstrom"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = 53.50004865752089,
+						["point"] = "CENTER",
+						["y"] = 51.49999873483603,
+					},
+				},
+			},
+		},
+		["StanceBar"] = {
+			["profiles"] = {
+				["Gsea - Maelstrom"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = -380.0500318308407,
+						["point"] = "BOTTOM",
+						["scale"] = 1,
+						["y"] = 163.1000252964399,
+					},
+				},
+			},
+		},
+		["PetBar"] = {
+			["profiles"] = {
+				["Gsea - Maelstrom"] = {
+					["version"] = 3,
+					["position"] = {
+						["x"] = 34.53331501467146,
+						["point"] = "LEFT",
+						["y"] = -232.8555872819156,
+					},
+				},
+			},
+		},
+		["RepBar"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Gsea - Maelstrom"] = "Gsea - Maelstrom",
+	},
+	["profiles"] = {
+		["Gsea - Maelstrom"] = {
+			["blizzardVehicle"] = true,
+			["focuscastmodifier"] = false,
+			["outofrange"] = "hotkey",
+		},
+	},
+}
