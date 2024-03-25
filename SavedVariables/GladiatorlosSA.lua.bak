@@ -1,0 +1,10 @@
+
+GladiatorlosSADB = {
+	["profileKeys"] = {
+		["Outlandish - Maelstrom"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

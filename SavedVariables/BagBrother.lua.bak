@@ -1,0 +1,20 @@
+
+BrotherBags = {
+	["Maelstrom"] = {
+		["Outlandish"] = {
+			[0] = {
+				"6948", -- [1]
+			},
+			["race"] = "Draenei",
+			["sex"] = 3,
+			["equip"] = {
+				[5] = "23322",
+				[16] = "3661",
+				[7] = "1396",
+			},
+			["class"] = "PRIEST",
+			["money"] = 0,
+		},
+	},
+	["version"] = 1,
+}

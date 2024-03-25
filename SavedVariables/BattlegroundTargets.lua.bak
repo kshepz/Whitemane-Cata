@@ -1,0 +1,205 @@
+
+BattlegroundTargets_Options = {
+	["ButtonRangeDisplay"] = {
+		[40] = 9,
+		[10] = 1,
+		[15] = 1,
+	},
+	["ButtonSortBy"] = {
+		[40] = 1,
+		[10] = 1,
+		[15] = 1,
+	},
+	["ButtonClassIcon"] = {
+		[40] = false,
+		[10] = false,
+		[15] = false,
+	},
+	["ButtonShowHealthBar"] = {
+		[40] = false,
+		[10] = false,
+		[15] = false,
+	},
+	["ButtonGuildGroupPosition"] = {
+		[40] = 4,
+		[10] = 4,
+		[15] = 4,
+	},
+	["LayoutTH"] = {
+		[40] = 24,
+		[10] = 18,
+		[15] = 18,
+	},
+	["ButtonFlagPosition"] = {
+		[40] = 100,
+		[10] = 55,
+		[15] = 55,
+	},
+	["ButtonAssistPosition"] = {
+		[40] = 70,
+		[10] = 70,
+		[15] = 100,
+	},
+	["ButtonTargetPosition"] = {
+		[40] = 85,
+		[10] = 100,
+		[15] = 70,
+	},
+	["LayoutSpace"] = {
+		[40] = 0,
+		[10] = 0,
+		[15] = 0,
+	},
+	["ButtonFocusScale"] = {
+		[40] = 1,
+		[10] = 1,
+		[15] = 1,
+	},
+	["version"] = 14,
+	["ButtonShowAssist"] = {
+		[40] = false,
+		[10] = false,
+		[15] = false,
+	},
+	["pos"] = {
+	},
+	["ButtonRangeCheck"] = {
+		[40] = false,
+		[10] = false,
+		[15] = false,
+	},
+	["ButtonAssistScale"] = {
+		[40] = 1,
+		[10] = 1.2,
+		[15] = 1.2,
+	},
+	["EnableBracket"] = {
+		[40] = false,
+		[10] = false,
+		[15] = false,
+	},
+	["LayoutButtonSpace"] = {
+		[40] = 0,
+		[10] = 0,
+		[15] = 0,
+	},
+	["ButtonTargetScale"] = {
+		[40] = 1,
+		[10] = 1.5,
+		[15] = 1.5,
+	},
+	["ButtonShowRole"] = {
+		[40] = true,
+		[10] = true,
+		[15] = true,
+	},
+	["ButtonHeight"] = {
+		[40] = 16,
+		[10] = 18,
+		[15] = 18,
+	},
+	["ButtonScale"] = {
+		[40] = 1,
+		[10] = 1,
+		[15] = 1,
+	},
+	["ButtonWidth"] = {
+		[40] = 100,
+		[10] = 150,
+		[15] = 150,
+	},
+	["TargetIcon"] = "default",
+	["ButtonFontSize"] = {
+		[40] = 10,
+		[10] = 10,
+		[15] = 10,
+	},
+	["ButtonSortDetail"] = {
+		[40] = 3,
+		[10] = 3,
+		[15] = 3,
+	},
+	["ButtonTypeRangeCheck"] = {
+		[40] = 2,
+		[10] = 2,
+		[15] = 2,
+	},
+	["ButtonShowHealthText"] = {
+		[40] = false,
+		[10] = false,
+		[15] = false,
+	},
+	["ButtonShowGuildGroup"] = {
+		[40] = false,
+		[10] = false,
+		[15] = false,
+	},
+	["ButtonShowTargetCount"] = {
+		[40] = false,
+		[10] = false,
+		[15] = false,
+	},
+	["ButtonShowTarget"] = {
+		[40] = true,
+		[10] = true,
+		[15] = true,
+	},
+	["ButtonHideRealm"] = {
+		[40] = true,
+		[10] = false,
+		[15] = false,
+	},
+	["SummaryScaleGuildGroup"] = {
+		[40] = 1.4,
+		[10] = 1.25,
+		[15] = 1.25,
+	},
+	["ButtonShowFlag"] = {
+		[40] = false,
+		[10] = true,
+		[15] = true,
+	},
+	["SummaryScaleRole"] = {
+		[40] = 0.5,
+		[10] = 0.6,
+		[15] = 0.6,
+	},
+	["ButtonFocusPosition"] = {
+		[40] = 55,
+		[10] = 65,
+		[15] = 65,
+	},
+	["ButtonShowSpec"] = {
+		[40] = false,
+		[10] = false,
+		[15] = false,
+	},
+	["ButtonShowLeader"] = {
+		[40] = false,
+		[10] = false,
+		[15] = false,
+	},
+	["ButtonShowFocus"] = {
+		[40] = false,
+		[10] = false,
+		[15] = false,
+	},
+	["Summary"] = {
+		[40] = false,
+		[10] = false,
+		[15] = false,
+	},
+	["ButtonFlagScale"] = {
+		[40] = 1,
+		[10] = 1.2,
+		[15] = 1.2,
+	},
+	["MinimapButtonPos"] = -90,
+	["IndependentPositioning"] = {
+		[40] = false,
+		[10] = false,
+		[15] = false,
+	},
+	["MinimapButton"] = false,
+	["FirstRun"] = true,
+}

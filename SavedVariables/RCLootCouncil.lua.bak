@@ -1,0 +1,82 @@
+
+RCLootCouncilDB = {
+	["global"] = {
+		["log"] = {
+			"03/04/23", -- [1]
+			"19:37:10 - Logged In", -- [2]
+			"19:37:10 - ML initialized!", -- [3]
+			"19:37:15 - Outlandish (2.0.4) (nil)", -- [4]
+			"19:37:15 - We didn't find: (One-Handed Axes) (40402)", -- [5]
+			"19:37:15 - Event: (PLAYER_ENTERING_WORLD)", -- [6]
+			"19:37:15 - GetML()", -- [7]
+			"19:37:15 - LootMethod =  (group)", -- [8]
+			"19:37:15 - isMasterLooter (false) (masterLooter) (nil)", -- [9]
+			"19:37:15 - Retry PLAYER_ENTERING_WORLD", -- [10]
+			"19:37:15 - Event: (PLAYER_ENTERING_WORLD) (true)", -- [11]
+			"19:37:15 - GetML()", -- [12]
+			"19:37:15 - LootMethod =  (group)", -- [13]
+			"19:37:15 - isMasterLooter (false) (masterLooter) (nil)", -- [14]
+			"19:37:15 - Timer LocalizeSubTypes passed", -- [15]
+			"19:37:15 - We didn't find: (One-Handed Axes) (40402)", -- [16]
+			"19:37:16 - Timer LocalizeSubTypes passed", -- [17]
+			"19:37:16 - Found One-Handed Axes localized as: One-Handed Axes", -- [18]
+			"19:37:16 - Found Librams localized as: Relic", -- [19]
+			"19:37:16 - Found One-Handed Swords localized as: One-Handed Swords", -- [20]
+			"19:37:16 - Found Staves localized as: Staves", -- [21]
+			"19:37:16 - Found Crossbows localized as: Crossbows", -- [22]
+			"19:37:16 - Found Plate localized as: Plate", -- [23]
+			"19:37:16 - Found One-Handed Maces localized as: One-Handed Maces", -- [24]
+			"19:37:16 - Found Idols localized as: Relic", -- [25]
+			"19:37:16 - Found Sigils localized as: Relic", -- [26]
+			"19:37:16 - Found Shields localized as: Shields", -- [27]
+			"19:37:16 - Found Totems localized as: Relic", -- [28]
+			"19:37:16 - Found Polearms localized as: Polearms", -- [29]
+			"19:37:16 - Found Bows localized as: Bows", -- [30]
+			"19:37:16 - Found Two-Handed Swords localized as: Two-Handed Swords", -- [31]
+			"19:37:16 - Found Two-Handed Maces localized as: Two-Handed Maces", -- [32]
+			"19:37:16 - Found Leather localized as: Leather", -- [33]
+			"19:37:16 - Found Mail localized as: Mail", -- [34]
+			"19:37:16 - Found Guns localized as: Guns", -- [35]
+			"19:37:16 - Found Fist Weapons localized as: Fist Weapons", -- [36]
+			"19:37:16 - Found Cloth localized as: Cloth", -- [37]
+			"19:37:16 - Found Wands localized as: Wands", -- [38]
+			"19:37:16 - Found Daggers localized as: Daggers", -- [39]
+			"19:37:16 - Found Two-Handed Axes localized as: Two-Handed Axes", -- [40]
+		},
+		["localizedSubTypes"] = {
+			["Two-Handed Maces"] = "Two-Handed Maces",
+			["One-Handed Swords"] = "One-Handed Swords",
+			["Staves"] = "Staves",
+			["Crossbows"] = "Crossbows",
+			["Plate"] = "Plate",
+			["One-Handed Maces"] = "One-Handed Maces",
+			["created"] = true,
+			["Shields"] = "Shields",
+			["Polearms"] = "Polearms",
+			["Daggers"] = "Daggers",
+			["Bows"] = "Bows",
+			["Two-Handed Swords"] = "Two-Handed Swords",
+			["Wands"] = "Wands",
+			["Leather"] = "Leather",
+			["Cloth"] = "Cloth",
+			["Guns"] = "Guns",
+			["Fist Weapons"] = "Fist Weapons",
+			["Mail"] = "Mail",
+			["Relic"] = "Totems",
+			["One-Handed Axes"] = "One-Handed Axes",
+			["Two-Handed Axes"] = "Two-Handed Axes",
+		},
+	},
+	["profileKeys"] = {
+		["Outlandish - Maelstrom"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+RCLootCouncilLootDB = {
+	["profileKeys"] = {
+		["Outlandish - Maelstrom"] = "Outlandish - Maelstrom",
+	},
+}

@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Outlandish|Maelstrom|Alliance|1|PRIEST", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Outlandish - Maelstrom"] = "Outlandish - Maelstrom",
+	},
+	["profiles"] = {
+		["Outlandish - Maelstrom"] = {
+		},
+	},
+}

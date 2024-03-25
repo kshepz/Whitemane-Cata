@@ -1,0 +1,59 @@
+
+ThreatPlatesDB = {
+	["char"] = {
+		["Shepz - Maelstrom"] = {
+			["spec"] = {
+				["primary"] = false,
+			},
+			["specInfo"] = {
+				{
+					31, -- [1]
+					7, -- [2]
+					3, -- [3]
+				}, -- [1]
+			},
+			["specName"] = {
+				"Holy", -- [1]
+				"Protection", -- [2]
+				"Retribution", -- [3]
+			},
+			["welcome"] = true,
+		},
+	},
+	["profileKeys"] = {
+		["Shepz - Maelstrom"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["nameplate"] = {
+				["toggle"] = {
+					["Totem"] = true,
+				},
+			},
+			["uniqueSettings"] = {
+				[33] = {
+				},
+				[34] = {
+				},
+				[38] = {
+				},
+				[40] = {
+				},
+				[41] = {
+				},
+				[42] = {
+				},
+				[48] = {
+				},
+				[49] = {
+				},
+				[50] = {
+				},
+				["list"] = {
+				},
+			},
+			["cache"] = {
+			},
+		},
+	},
+}

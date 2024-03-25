@@ -1,0 +1,32 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Outlandish - Maelstrom"] = "Outlandish - Maelstrom",
+	},
+	["profiles"] = {
+		["Outlandish - Maelstrom"] = {
+			["GraphWindowY"] = 0,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -269.099983215332,
+					["x"] = 537.5999145507813,
+					["w"] = 206.13330078125,
+					["h"] = 106.7332916259766,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["DetailWindowY"] = 0,
+			["DetailWindowX"] = 0,
+			["MainWindowWidth"] = 206.13330078125,
+			["MainWindowHeight"] = 106.7332916259766,
+			["GraphWindowX"] = 0,
+			["CurDataSet"] = "OverallData",
+		},
+	},
+}

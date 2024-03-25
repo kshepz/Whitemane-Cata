@@ -1,0 +1,26 @@
+
+AtlasLootDB = {
+	["namespaces"] = {
+		["DefaultFrame"] = {
+			["profiles"] = {
+				["Outlandish - Maelstrom"] = {
+					["instance"] = "TheDeadminesEaI",
+				},
+			},
+		},
+		["AtlasLootPanel"] = {
+		},
+		["WishList"] = {
+		},
+		["Filter"] = {
+		},
+	},
+	["showWarning"] = true,
+	["profileKeys"] = {
+		["Outlandish - Maelstrom"] = "Outlandish - Maelstrom",
+	},
+	["profiles"] = {
+		["Outlandish - Maelstrom"] = {
+		},
+	},
+}
